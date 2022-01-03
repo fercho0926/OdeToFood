@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectUniqueName": "C:\\WorkSpaces\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "projectName": "OdeToFood.Core",
-      "projectPath": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectPath": "C:\\WorkSpaces\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "packagesPath": "C:\\Users\\mvasquez\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood.Core\\obj\\",
+      "outputPath": "C:\\WorkSpaces\\OdeToFood\\OdeToFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

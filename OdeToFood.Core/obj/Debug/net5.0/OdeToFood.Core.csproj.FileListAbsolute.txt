@@ -10,3 +10,15 @@ C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.c
 C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.dll
 C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\ref\OdeToFood.Core.dll
 C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.pdb
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.deps.json
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.dll
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\ref\OdeToFood.Core.dll
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\bin\Debug\net5.0\OdeToFood.Core.pdb
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.AssemblyInfo.cs
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.dll
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\ref\OdeToFood.Core.dll
+C:\WorkSpaces\OdeToFood\OdeToFood.Core\obj\Debug\net5.0\OdeToFood.Core.pdb

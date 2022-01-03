@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\WorkSpaces\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "C:\\WorkSpaces\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\mvasquez\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "C:\\WorkSpaces\\OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -79,8 +79,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "C:\\WorkSpaces\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+              "projectPath": "C:\\WorkSpaces\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
             }
           }
         }

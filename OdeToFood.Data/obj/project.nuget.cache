@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pg04INynDvCe0oGFfUPWE8RZtL1qeOV7Z1gItszNnywnYQHL1ETJV8AmHIrH3UkHS9s0Fj5tbl5yN+xEnHTk/A==",
+  "dgSpecHash": "tKSeIOQBEpYeQU0vU6uFHFgLIIjdHM4ccXeqXBVM49jeS7gdZmjoXUjJ337jCnJO4sz/1GO/luNCwjihCLV8fw==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpaces\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+  "projectFilePath": "C:\\WorkSpaces\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

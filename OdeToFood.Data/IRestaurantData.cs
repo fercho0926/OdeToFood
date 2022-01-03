@@ -12,10 +12,10 @@ namespace OdeToFood.Data
         IEnumerable<Restaurant> GetAll();
     }
 
-    public class InMeryRestaurantData : IRestaurantData
+    public class InMemoryRestaurantData : IRestaurantData
     {
         List<Restaurant> restaurants;
-        public InMeryRestaurantData()
+        public InMemoryRestaurantData()
         {
             restaurants = new List<Restaurant>() {
                 new Restaurant { Id = 1, Name = "Milton Pizza",Location = "Colombia", Cuisine = CuisineType.Mexican },
