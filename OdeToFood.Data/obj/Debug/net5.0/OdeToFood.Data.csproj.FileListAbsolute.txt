@@ -14,6 +14,8 @@ C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.d
 C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\ref\OdeToFood.Data.dll
 C:\WorkSpaces\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.pdb
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.deps.json
+C:\WorkSpaces\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.runtimeconfig.json
+C:\WorkSpaces\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.runtimeconfig.dev.json
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.dll
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\ref\OdeToFood.Data.dll
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.pdb
@@ -28,3 +30,4 @@ C:\WorkSpaces\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.csproj.Co
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.dll
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\ref\OdeToFood.Data.dll
 C:\WorkSpaces\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.pdb
+C:\WorkSpaces\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.genruntimeconfig.cache
