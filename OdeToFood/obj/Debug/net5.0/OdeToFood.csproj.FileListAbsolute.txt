@@ -117,3 +117,6 @@ C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.dll
 C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\ref\OdeToFood.dll
 C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
+C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+C:\WorkSpaces\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs

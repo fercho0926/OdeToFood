@@ -9,9 +9,8 @@
 <form method="get">
     <div class="form-group">
         <div class="input-group">
-            <input type="search" class="form-control" 
-                   asp-for="SearchTerm"
-                   />
+            <input type="search" class="form-control"
+                   asp-for="SearchTerm" />
             <span class="input-group-btn">
                 <button class="btn btn-outline-primary">Search</button>
             </span>
@@ -22,35 +21,47 @@
 
 </form>
 
+@*@foreach (var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant" />
+}*@
 
 <table class="table">
-    @foreach (var restaurant in Model.Restaurants)
-    {
-        <tr>
-            <td>@restaurant.Name</td>
-            <td>@restaurant.Location</td>
-            <td>@restaurant.Cuisine</td>
-            <td>
-                <a class="btn btn-lg"
-                   asp-page="./detail"
-                   asp-route-restaurantId="@restaurant.Id">
+        @foreach (var restaurant in Model.Restaurants)
+        {
+            <tr>
+                <td>@restaurant.Name</td>
+                <td>@restaurant.Location</td>
+                <td>@restaurant.Cuisine</td>
+                <td>
+                    <a class="btn btn-lg"
+                       asp-page="./detail"
+                       asp-route-restaurantId="@restaurant.Id">
+                        <i class="fa fa-eye"></i>
+                    </a>
+                    <a class="btn btn-lg"
+                       asp-page="./Edit"
+                       asp-route-restaurantId="@restaurant.Id">
+                        <i class="fa fa-edit"></i>
+                    </a>
+                    <a class="btn btn-lg"
+                       asp-page="./Delete"
+                       asp-route-restaurantId="@restaurant.Id">
+                        <i class="fa fa-trash"></i>
+                    </a>
+                </td>
+            </tr>
+        }
 
-                    <i class="btn btn-outline-secondary">Details</i>
-                </a>
-                <a class="btn btn-lg"
-                   asp-page="./Edit"
-                   asp-route-restaurantId="@restaurant.Id">
-
-                    <i class="btn btn-outline-secondary">Edit</i>
-                </a>
-            </td>
-        </tr>
-    }
-
-</table>
+    </table>
 
 <a asp-page=".\Edit" class="btn  btn-info">Add New</a>
 
-<div>
-    <h3>@Model.Message</h3>
-</div>
+@section footer{
+
+    <div>
+        <h3>@Model.Message</h3>
+    </div>
+}
+
+
